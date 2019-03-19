@@ -1,0 +1,2 @@
+# shinchan
+This a repository 
